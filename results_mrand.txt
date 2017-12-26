@@ -1,62 +1,62 @@
 m =  n ^ 0.1
 num_vertices = 100	p = 0.000158489319246	number of edges = 1	Estimate was : 1.58489319246
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.15
 num_vertices = 100	p = 0.000199526231497	number of edges = 3	Estimate was : 1.99526231497
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.2
 num_vertices = 100	p = 0.000251188643151	number of edges = 2	Estimate was : 2.51188643151
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.25
 num_vertices = 100	p = 0.000316227766017	number of edges = 1	Estimate was : 3.16227766017
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.3
 num_vertices = 100	p = 0.000398107170553	number of edges = 4	Estimate was : 3.98107170553
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.35
 num_vertices = 100	p = 0.000501187233627	number of edges = 5	Estimate was : 5.01187233627
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.4
 num_vertices = 100	p = 0.00063095734448	number of edges = 8	Estimate was : 6.3095734448
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.45
 num_vertices = 100	p = 0.000794328234724	number of edges = 9	Estimate was : 7.94328234724
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.5
 num_vertices = 100	p = 0.001	number of edges = 3	Estimate was : 10.0
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.55
 num_vertices = 100	p = 0.00125892541179	number of edges = 16	Estimate was : 12.5892541179
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.6
 num_vertices = 100	p = 0.00158489319246	number of edges = 7	Estimate was : 15.8489319246
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.65
 num_vertices = 100	p = 0.00199526231497	number of edges = 15	Estimate was : 19.9526231497
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.7
 num_vertices = 100	p = 0.00251188643151	number of edges = 26	Estimate was : 25.1188643151
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.75
 num_vertices = 100	p = 0.00316227766017	number of edges = 30	Estimate was : 31.6227766017
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.8
 num_vertices = 100	p = 0.00398107170553	number of edges = 37	Estimate was : 39.8107170553
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.85
 num_vertices = 100	p = 0.00501187233627	number of edges = 50	Estimate was : 50.1187233627
@@ -152,67 +152,67 @@ length : 3.0	start : 1
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.1
 num_vertices = 200	p = 4.24661616159e-05	number of edges = 2	Estimate was : 1.69864646463
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.15
 num_vertices = 200	p = 5.53470538364e-05	number of edges = 4	Estimate was : 2.21388215346
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.2
 num_vertices = 200	p = 7.21349952954e-05	number of edges = 1	Estimate was : 2.88539981181
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.25
 num_vertices = 200	p = 9.40150773272e-05	number of edges = 4	Estimate was : 3.76060309309
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.3
 num_vertices = 200	p = 0.000122531854735	number of edges = 0	Estimate was : 4.90127418939
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.35
 num_vertices = 200	p = 0.000159698378724	number of edges = 8	Estimate was : 6.38793514896
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.4
 num_vertices = 200	p = 0.00020813830185	number of edges = 6	Estimate was : 8.32553207402
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.45
 num_vertices = 200	p = 0.000271271086428	number of edges = 10	Estimate was : 10.8508434571
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.5
 num_vertices = 200	p = 0.000353553390593	number of edges = 23	Estimate was : 14.1421356237
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.55
 num_vertices = 200	p = 0.000460793671918	number of edges = 22	Estimate was : 18.4317468767
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.6
 num_vertices = 200	p = 0.000600562216991	number of edges = 26	Estimate was : 24.0224886796
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.65
 num_vertices = 200	p = 0.000782725541729	number of edges = 22	Estimate was : 31.3090216691
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.7
 num_vertices = 200	p = 0.00102014288668	number of edges = 44	Estimate was : 40.8057154674
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.75
 num_vertices = 200	p = 0.00132957397424	number of edges = 64	Estimate was : 53.1829589694
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.8
 num_vertices = 200	p = 0.00173286210789	number of edges = 68	Estimate was : 69.3144843155
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.85
 num_vertices = 200	p = 0.00225847613081	number of edges = 89	Estimate was : 90.3390452322
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.9
 num_vertices = 200	p = 0.00294352009326	number of edges = 139	Estimate was : 117.74080373
@@ -304,63 +304,63 @@ length : 3.0	start : 1
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.1
 num_vertices = 300	p = 1.96548446719e-05	number of edges = 0	Estimate was : 1.76893602047
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.15
 num_vertices = 300	p = 2.6141209569e-05	number of edges = 1	Estimate was : 2.35270886121
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.2
 num_vertices = 300	p = 3.4768162717e-05	number of edges = 5	Estimate was : 3.12913464453
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.25
 num_vertices = 300	p = 4.62421272254e-05	number of edges = 3	Estimate was : 4.16179145029
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.3
 num_vertices = 300	p = 6.15026553959e-05	number of edges = 5	Estimate was : 5.53523898563
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.35
 num_vertices = 300	p = 8.17993645124e-05	number of edges = 2	Estimate was : 7.36194280612
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.4
 num_vertices = 300	p = 0.000108794262485	number of edges = 9	Estimate was : 9.79148362361
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.45
 num_vertices = 300	p = 0.000144697842338	number of edges = 20	Estimate was : 13.0228058104
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.5
 num_vertices = 300	p = 0.00019245008973	number of edges = 18	Estimate was : 17.3205080757
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.55
 num_vertices = 300	p = 0.000255961225396	number of edges = 24	Estimate was : 23.0365102857
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.6
 num_vertices = 300	p = 0.000340431895867	number of edges = 31	Estimate was : 30.638870628
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.65
 num_vertices = 300	p = 0.000452779031449	number of edges = 38	Estimate was : 40.7501128304
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.7
 num_vertices = 300	p = 0.000602202243117	number of edges = 48	Estimate was : 54.1982018805
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.75
 num_vertices = 300	p = 0.000800937138045	number of edges = 71	Estimate was : 72.084342424
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.8
 num_vertices = 300	p = 0.00106525723946	number of edges = 98	Estimate was : 95.8731515514
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.85
 num_vertices = 300	p = 0.00141680655362	number of edges = 130	Estimate was : 127.512589826
@@ -456,71 +456,71 @@ length : 3.0	start : 2
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.1
 num_vertices = 400	p = 1.13785262689e-05	number of edges = 1	Estimate was : 1.82056420303
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.15
 num_vertices = 400	p = 1.53528503264e-05	number of edges = 6	Estimate was : 2.45645605223
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.2
 num_vertices = 400	p = 2.07153376084e-05	number of edges = 2	Estimate was : 3.31445401734
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.25
 num_vertices = 400	p = 2.79508497187e-05	number of edges = 2	Estimate was : 4.472135955
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.3
 num_vertices = 400	p = 3.77136021034e-05	number of edges = 4	Estimate was : 6.03417633655
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.35
 num_vertices = 400	p = 5.08863164421e-05	number of edges = 8	Estimate was : 8.14181063074
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.4
 num_vertices = 400	p = 6.86600339566e-05	number of edges = 14	Estimate was : 10.9856054331
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.45
 num_vertices = 400	p = 9.26418061384e-05	number of edges = 11	Estimate was : 14.8226889821
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.5
 num_vertices = 400	p = 0.000125	number of edges = 17	Estimate was : 20.0
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.55
 num_vertices = 400	p = 0.000168660355959	number of edges = 29	Estimate was : 26.9856569535
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.6
 num_vertices = 400	p = 0.000227570525378	number of edges = 39	Estimate was : 36.4112840605
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.65
 num_vertices = 400	p = 0.000307057006529	number of edges = 63	Estimate was : 49.1291210446
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.7
 num_vertices = 400	p = 0.000414306752167	number of edges = 78	Estimate was : 66.2890803468
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.75
 num_vertices = 400	p = 0.000559016994375	number of edges = 104	Estimate was : 89.4427191
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.8
 num_vertices = 400	p = 0.000754272042068	number of edges = 119	Estimate was : 120.683526731
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.85
 num_vertices = 400	p = 0.00101772632884	number of edges = 179	Estimate was : 162.836212615
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.9
 num_vertices = 400	p = 0.00137320067913	number of edges = 215	Estimate was : 219.712108661
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.95
 num_vertices = 400	p = 0.00185283612277	number of edges = 278	Estimate was : 296.453779643
@@ -608,67 +608,67 @@ length : 3.0	start : 1
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.1
 num_vertices = 500	p = 7.44658226654e-06	number of edges = 1	Estimate was : 1.86164556664
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.15
 num_vertices = 500	p = 1.01602756825e-05	number of edges = 4	Estimate was : 2.54006892062
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.2
 num_vertices = 500	p = 1.38628968631e-05	number of edges = 6	Estimate was : 3.46572421578
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.25
 num_vertices = 500	p = 1.89148321801e-05	number of edges = 8	Estimate was : 4.72870804502
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.3
 num_vertices = 500	p = 2.58078004859e-05	number of edges = 6	Estimate was : 6.45195012148
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.35
 num_vertices = 500	p = 3.52127134717e-05	number of edges = 6	Estimate was : 8.80317836792
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.4
 num_vertices = 500	p = 4.80449773593e-05	number of edges = 13	Estimate was : 12.0112443398
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.45
 num_vertices = 500	p = 6.55535919238e-05	number of edges = 14	Estimate was : 16.3883979809
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.5
 num_vertices = 500	p = 8.94427191e-05	number of edges = 19	Estimate was : 22.360679775
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.55
 num_vertices = 500	p = 0.000122037553782	number of edges = 36	Estimate was : 30.5093884455
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.6
 num_vertices = 500	p = 0.00016651064148	number of edges = 50	Estimate was : 41.6276603701
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.65
 num_vertices = 500	p = 0.000227190670961	number of edges = 59	Estimate was : 56.7976677403
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.7
 num_vertices = 500	p = 0.00030998379751	number of edges = 77	Estimate was : 77.4959493774
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.75
 num_vertices = 500	p = 0.000422948505376	number of edges = 126	Estimate was : 105.737126344
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.8
 num_vertices = 500	p = 0.000577079962363	number of edges = 140	Estimate was : 144.269990591
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.85
 num_vertices = 500	p = 0.000787380209949	number of edges = 197	Estimate was : 196.845052487
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.9
 num_vertices = 500	p = 0.00107431835353	number of edges = 272	Estimate was : 268.579588382
@@ -760,39 +760,39 @@ length : 3.0	start : 1
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.1
 num_vertices = 600	p = 5.26638523241e-06	number of edges = 2	Estimate was : 1.89589868367
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.15
 num_vertices = 600	p = 7.25137202518e-06	number of edges = 1	Estimate was : 2.61049392906
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.2
 num_vertices = 600	p = 9.98453282983e-06	number of edges = 4	Estimate was : 3.59443181874
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.25
 num_vertices = 600	p = 1.37478666773e-05	number of edges = 1	Estimate was : 4.94923200384
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.3
 num_vertices = 600	p = 1.89296626491e-05	number of edges = 8	Estimate was : 6.81467855368
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.35
 num_vertices = 600	p = 2.60645623368e-05	number of edges = 8	Estimate was : 9.38324244125
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.4
 num_vertices = 600	p = 3.58887224988e-05	number of edges = 12	Estimate was : 12.9199400996
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.45
 num_vertices = 600	p = 4.94157694248e-05	number of edges = 24	Estimate was : 17.7896769929
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.5
 num_vertices = 600	p = 6.8041381744e-05	number of edges = 26	Estimate was : 24.4948974278
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.55
 num_vertices = 600	p = 9.36872922049e-05	number of edges = 33	Estimate was : 33.7274251938
@@ -800,27 +800,27 @@ length : 4.0	start : 385
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.6
 num_vertices = 600	p = 0.000128999566083	number of edges = 47	Estimate was : 46.43984379
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.65
 num_vertices = 600	p = 0.000177621613968	number of edges = 67	Estimate was : 63.9437810284
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.7
 num_vertices = 600	p = 0.000244570107531	number of edges = 79	Estimate was : 88.0452387113
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.75
 num_vertices = 600	p = 0.000336752584113	number of edges = 124	Estimate was : 121.230930281
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.8
 num_vertices = 600	p = 0.000463680144934	number of edges = 182	Estimate was : 166.924852176
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.85
 num_vertices = 600	p = 0.000638448780942	number of edges = 244	Estimate was : 229.841561139
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.9
 num_vertices = 600	p = 0.000879090576423	number of edges = 337	Estimate was : 316.472607512
@@ -912,63 +912,63 @@ length : 3.0	start : 1
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.1
 num_vertices = 700	p = 3.92928675205e-06	number of edges = 1	Estimate was : 1.9253505085
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.15
 num_vertices = 700	p = 5.45216042364e-06	number of edges = 1	Estimate was : 2.67155860758
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.2
 num_vertices = 700	p = 7.56525424611e-06	number of edges = 2	Estimate was : 3.7069745806
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.25
 num_vertices = 700	p = 1.04973198441e-05	number of edges = 5	Estimate was : 5.14368672361
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.3
 num_vertices = 700	p = 1.45657661097e-05	number of edges = 7	Estimate was : 7.13722539376
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.35
 num_vertices = 700	p = 2.02110200998e-05	number of edges = 12	Estimate was : 9.90339984889
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.4
 num_vertices = 700	p = 2.80442051861e-05	number of edges = 19	Estimate was : 13.7416605412
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.45
 num_vertices = 700	p = 3.89132978265e-05	number of edges = 20	Estimate was : 19.067515935
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.5
 num_vertices = 700	p = 5.39949247156e-05	number of edges = 28	Estimate was : 26.4575131106
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.55
 num_vertices = 700	p = 7.49217377577e-05	number of edges = 39	Estimate was : 36.7116515013
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.6
 num_vertices = 700	p = 0.000103959155758	number of edges = 51	Estimate was : 50.9399863213
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.65
 num_vertices = 700	p = 0.00014425060589	number of edges = 79	Estimate was : 70.682796886
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.7
 num_vertices = 700	p = 0.000200157813402	number of edges = 91	Estimate was : 98.0773285669
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.75
 num_vertices = 700	p = 0.000277732977402	number of edges = 134	Estimate was : 136.089158927
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.8
 num_vertices = 700	p = 0.000385373947814	number of edges = 177	Estimate was : 188.833234429
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.85
 num_vertices = 700	p = 0.000534733329269	number of edges = 255	Estimate was : 262.019331342
@@ -976,7 +976,7 @@ length : 4.0	start : 597
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.9
 num_vertices = 700	p = 0.000741979926388	number of edges = 344	Estimate was : 363.57016393
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.95
 num_vertices = 700	p = 0.00102954908742	number of edges = 490	Estimate was : 504.479052837
@@ -1064,63 +1064,63 @@ length : 3.0	start : 2
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.1
 num_vertices = 800	p = 3.04880062445e-06	number of edges = 2	Estimate was : 1.95123239965
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.15
 num_vertices = 800	p = 4.25876350786e-06	number of edges = 5	Estimate was : 2.72560864503
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.2
 num_vertices = 800	p = 5.94891855849e-06	number of edges = 2	Estimate was : 3.80730787743
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.25
 num_vertices = 800	p = 8.30983733898e-06	number of edges = 9	Estimate was : 5.31829589694
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.3
 num_vertices = 800	p = 1.16077226342e-05	number of edges = 5	Estimate was : 7.42894248588
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.35
 num_vertices = 800	p = 1.62144238516e-05	number of edges = 12	Estimate was : 10.377231265
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.4
 num_vertices = 800	p = 2.26493644899e-05	number of edges = 12	Estimate was : 14.4955932736
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.45
 num_vertices = 800	p = 3.16381091609e-05	number of edges = 18	Estimate was : 20.248389863
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.5
 num_vertices = 800	p = 4.41941738242e-05	number of edges = 28	Estimate was : 28.2842712475
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.55
 num_vertices = 800	p = 6.17333036582e-05	number of edges = 55	Estimate was : 39.5093143413
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.6
 num_vertices = 800	p = 8.62331038413e-05	number of edges = 57	Estimate was : 55.1891864584
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.65
 num_vertices = 800	p = 0.000120456022235	number of edges = 81	Estimate was : 77.0918542305
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.7
 num_vertices = 800	p = 0.000168260826137	number of edges = 101	Estimate was : 107.686928728
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.75
 num_vertices = 800	p = 0.000235037693318	number of edges = 129	Estimate was : 150.424123723
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.8
 num_vertices = 800	p = 0.00032831597555	number of edges = 215	Estimate was : 210.122224352
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.85
 num_vertices = 800	p = 0.00045861316234	number of edges = 306	Estimate was : 293.512423898
@@ -1216,55 +1216,55 @@ length : 3.0	start : 3
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.1
 num_vertices = 900	p = 2.4374697356e-06	number of edges = 4	Estimate was : 1.97435048583
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.15
 num_vertices = 900	p = 3.42492730206e-06	number of edges = 4	Estimate was : 2.77419111467
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.2
 num_vertices = 900	p = 4.81241955669e-06	number of edges = 1	Estimate was : 3.89805984092
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.25
 num_vertices = 900	p = 6.76200688278e-06	number of edges = 6	Estimate was : 5.47722557505
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.3
 num_vertices = 900	p = 9.50140288979e-06	number of edges = 8	Estimate was : 7.69613634073
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.35
 num_vertices = 900	p = 1.33505715742e-05	number of edges = 11	Estimate was : 10.8139629751
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.4
 num_vertices = 900	p = 1.87590994116e-05	number of edges = 13	Estimate was : 15.1948705234
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.45
 num_vertices = 900	p = 2.63587074738e-05	number of edges = 19	Estimate was : 21.3505530537
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.5
 num_vertices = 900	p = 3.7037037037e-05	number of edges = 28	Estimate was : 30.0
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.55
 num_vertices = 900	p = 5.20413269068e-05	number of edges = 41	Estimate was : 42.1534747945
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.6
 num_vertices = 900	p = 7.3124092068e-05	number of edges = 51	Estimate was : 59.230514575
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.65
 num_vertices = 900	p = 0.000102747819062	number of edges = 85	Estimate was : 83.2257334402
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.7
 num_vertices = 900	p = 0.000144372586701	number of edges = 116	Estimate was : 116.941795227
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.75
 num_vertices = 900	p = 0.000202860206483	number of edges = 169	Estimate was : 164.316767252
@@ -1272,15 +1272,15 @@ length : 3.0	start : 693
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.8
 num_vertices = 900	p = 0.000285042086694	number of edges = 227	Estimate was : 230.884090222
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.85
 num_vertices = 900	p = 0.000400517147227	number of edges = 326	Estimate was : 324.418889254
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.9
 num_vertices = 900	p = 0.000562772982347	number of edges = 442	Estimate was : 455.846115701
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.95
 num_vertices = 900	p = 0.000790761224213	number of edges = 676	Estimate was : 640.516591612
@@ -1368,71 +1368,71 @@ length : 3.0	start : 2
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.1
 num_vertices = 1000	p = 1.99526231497e-06	number of edges = 4	Estimate was : 1.99526231497
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.15
 num_vertices = 1000	p = 2.81838293126e-06	number of edges = 1	Estimate was : 2.81838293126
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.2
 num_vertices = 1000	p = 3.98107170553e-06	number of edges = 4	Estimate was : 3.98107170553
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.25
 num_vertices = 1000	p = 5.6234132519e-06	number of edges = 14	Estimate was : 5.6234132519
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.3
 num_vertices = 1000	p = 7.94328234724e-06	number of edges = 9	Estimate was : 7.94328234724
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.35
 num_vertices = 1000	p = 1.1220184543e-05	number of edges = 9	Estimate was : 11.220184543
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.4
 num_vertices = 1000	p = 1.58489319246e-05	number of edges = 19	Estimate was : 15.8489319246
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.45
 num_vertices = 1000	p = 2.23872113857e-05	number of edges = 12	Estimate was : 22.3872113857
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.5
 num_vertices = 1000	p = 3.16227766017e-05	number of edges = 30	Estimate was : 31.6227766017
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.55
 num_vertices = 1000	p = 4.46683592151e-05	number of edges = 33	Estimate was : 44.6683592151
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.6
 num_vertices = 1000	p = 6.3095734448e-05	number of edges = 63	Estimate was : 63.095734448
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.65
 num_vertices = 1000	p = 8.91250938134e-05	number of edges = 109	Estimate was : 89.1250938134
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.7
 num_vertices = 1000	p = 0.000125892541179	number of edges = 129	Estimate was : 125.892541179
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.75
 num_vertices = 1000	p = 0.000177827941004	number of edges = 182	Estimate was : 177.827941004
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.8
 num_vertices = 1000	p = 0.000251188643151	number of edges = 245	Estimate was : 251.188643151
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.85
 num_vertices = 1000	p = 0.000354813389234	number of edges = 326	Estimate was : 354.813389234
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.9
 num_vertices = 1000	p = 0.000501187233627	number of edges = 528	Estimate was : 501.187233627
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.95
 num_vertices = 1000	p = 0.000707945784384	number of edges = 694	Estimate was : 707.945784384
@@ -1520,71 +1520,71 @@ length : 3.0	start : 1
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.1
 num_vertices = 1100	p = 1.66476868569e-06	number of edges = 0	Estimate was : 2.01437010969
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.15
 num_vertices = 1100	p = 2.36278134047e-06	number of edges = 5	Estimate was : 2.85896542197
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.2
 num_vertices = 1100	p = 3.35346028001e-06	number of edges = 2	Estimate was : 4.05768693881
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.25
 num_vertices = 1100	p = 4.75951610798e-06	number of edges = 5	Estimate was : 5.75901449065
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.3
 num_vertices = 1100	p = 6.75511015208e-06	number of edges = 7	Estimate was : 8.17368328402
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.35
 num_vertices = 1100	p = 9.5874269845e-06	number of edges = 10	Estimate was : 11.6007866512
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.4
 num_vertices = 1100	p = 1.3607291978e-05	number of edges = 11	Estimate was : 16.4648232934
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.45
 num_vertices = 1100	p = 1.93126263464e-05	number of edges = 24	Estimate was : 23.3682778792
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.5
 num_vertices = 1100	p = 2.74101222343e-05	number of edges = 37	Estimate was : 33.1662479036
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.55
 num_vertices = 1100	p = 3.89027772518e-05	number of edges = 51	Estimate was : 47.0723604747
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.6
 num_vertices = 1100	p = 5.52141309318e-05	number of edges = 68	Estimate was : 66.8090984275
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.65
 num_vertices = 1100	p = 7.836459168e-05	number of edges = 100	Estimate was : 94.8211559327
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.7
 num_vertices = 1100	p = 0.000111221694982	number of edges = 158	Estimate was : 134.578250928
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.75
 num_vertices = 1100	p = 0.000157855291138	number of edges = 181	Estimate was : 191.004902277
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.8
 num_vertices = 1100	p = 0.00022404165792	number of edges = 258	Estimate was : 271.090406083
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.85
 num_vertices = 1100	p = 0.000317978980125	number of edges = 392	Estimate was : 384.754565951
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.9
 num_vertices = 1100	p = 0.000451302819039	number of edges = 519	Estimate was : 546.076411037
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.95
 num_vertices = 1100	p = 0.000640527353074	number of edges = 780	Estimate was : 775.038097219
@@ -1672,67 +1672,67 @@ length : 3.0	start : 3
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.1
 num_vertices = 1200	p = 1.4110929839e-06	number of edges = 1	Estimate was : 2.03197389681
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.15
 num_vertices = 1200	p = 2.01147525744e-06	number of edges = 1	Estimate was : 2.89652437071
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.2
 num_vertices = 1200	p = 2.86730410926e-06	number of edges = 5	Estimate was : 4.12891791733
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.25
 num_vertices = 1200	p = 4.0872652172e-06	number of edges = 3	Estimate was : 5.88566191277
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.3
 num_vertices = 1200	p = 5.82628710424e-06	number of edges = 14	Estimate was : 8.38985343011
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.35
 num_vertices = 1200	p = 8.3052162307e-06	number of edges = 10	Estimate was : 11.9595113722
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.4
 num_vertices = 1200	p = 1.18388633112e-05	number of edges = 17	Estimate was : 17.0479631681
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.45
 num_vertices = 1200	p = 1.68759825882e-05	number of edges = 28	Estimate was : 24.301414927
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.5
 num_vertices = 1200	p = 2.40562612162e-05	number of edges = 42	Estimate was : 34.6410161514
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.55
 num_vertices = 1200	p = 3.42915561023e-05	number of edges = 46	Estimate was : 49.3798407873
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.6
 num_vertices = 1200	p = 4.88816948463e-05	number of edges = 54	Estimate was : 70.3896405787
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.65
 num_vertices = 1200	p = 6.9679546881e-05	number of edges = 111	Estimate was : 100.338547509
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.7
 num_vertices = 1200	p = 9.93263279598e-05	number of edges = 140	Estimate was : 143.029912262
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.75
 num_vertices = 1200	p = 0.000141587020404	number of edges = 217	Estimate was : 203.885309382
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.8
 num_vertices = 1200	p = 0.000201828505681	number of edges = 301	Estimate was : 290.63304818
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.85
 num_vertices = 1200	p = 0.000287701129588	number of edges = 429	Estimate was : 414.289626607
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.9
 num_vertices = 1200	p = 0.000410110255176	number of edges = 581	Estimate was : 590.558767453
@@ -1822,67 +1822,67 @@ m =  n ^ 1.95
 num_vertices = 1200	p = 0.701521422489	number of edges = 656071	Estimate was : 1010190.84838
 m =  n ^ 0.1
 num_vertices = 1300	p = 1.21201398385e-06	number of edges = 4	Estimate was : 2.04830363271
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.15
 num_vertices = 1300	p = 1.73462179246e-06	number of edges = 3	Estimate was : 2.93151082926
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.2
 num_vertices = 1300	p = 2.48257264601e-06	number of edges = 4	Estimate was : 4.19554777175
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.25
 num_vertices = 1300	p = 3.55303211887e-06	number of edges = 6	Estimate was : 6.00462428089
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.3
 num_vertices = 1300	p = 5.08506256927e-06	number of edges = 8	Estimate was : 8.59375574207
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.35
 num_vertices = 1300	p = 7.2776885962e-06	number of edges = 12	Estimate was : 12.2992937276
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.4
 num_vertices = 1300	p = 1.04157521332e-05	number of edges = 15	Estimate was : 17.6026211051
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.45
 num_vertices = 1300	p = 1.49069159893e-05	number of edges = 26	Estimate was : 25.1926880219
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.5
 num_vertices = 1300	p = 2.13346229317e-05	number of edges = 36	Estimate was : 36.0555127546
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.55
 num_vertices = 1300	p = 3.05338901733e-05	number of edges = 68	Estimate was : 51.6022743929
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.6
 num_vertices = 1300	p = 4.36997856535e-05	number of edges = 75	Estimate was : 73.8526377544
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.65
 num_vertices = 1300	p = 6.25426781626e-05	number of edges = 110	Estimate was : 105.697126095
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.7
 num_vertices = 1300	p = 8.95104297025e-05	number of edges = 155	Estimate was : 151.272626197
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.75
 num_vertices = 1300	p = 0.00012810639488	number of edges = 247	Estimate was : 216.499807346
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.8
 num_vertices = 1300	p = 0.000183344538325	number of edges = 355	Estimate was : 309.852269769
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.85
 num_vertices = 1300	p = 0.000262400794005	number of edges = 446	Estimate was : 443.457341868
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.9
 num_vertices = 1300	p = 0.000375545283887	number of edges = 669	Estimate was : 634.671529769
@@ -1974,59 +1974,59 @@ length : 3.0	start : 2
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.1
 num_vertices = 1400	p = 1.05282631689e-06	number of edges = 5	Estimate was : 2.06353958109
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.15
 num_vertices = 1400	p = 1.51238769072e-06	number of edges = 1	Estimate was : 2.96427987382
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.2
 num_vertices = 1400	p = 2.17254877691e-06	number of edges = 2	Estimate was : 4.25819560275
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.25
 num_vertices = 1400	p = 3.12087186177e-06	number of edges = 8	Estimate was : 6.11690884906
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.3
 num_vertices = 1400	p = 4.48314039302e-06	number of edges = 8	Estimate was : 8.78695517031
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.35
 num_vertices = 1400	p = 6.44004261428e-06	number of edges = 19	Estimate was : 12.622483524
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.4
 num_vertices = 1400	p = 9.25113764859e-06	number of edges = 26	Estimate was : 18.1322297912
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.45
 num_vertices = 1400	p = 1.32892828385e-05	number of edges = 16	Estimate was : 26.0469943635
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.5
 num_vertices = 1400	p = 1.9090088708e-05	number of edges = 42	Estimate was : 37.4165738677
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.55
 num_vertices = 1400	p = 2.74229611416e-05	number of edges = 63	Estimate was : 53.7490038376
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.6
 num_vertices = 1400	p = 3.93931536556e-05	number of edges = 51	Estimate was : 77.210581165
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.65
 num_vertices = 1400	p = 5.65883657466e-05	number of edges = 130	Estimate was : 110.913196863
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.7
 num_vertices = 1400	p = 8.12893317926e-05	number of edges = 163	Estimate was : 159.327090313
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.75
 num_vertices = 1400	p = 0.000116772332548	number of edges = 233	Estimate was : 228.873771793
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.8
 num_vertices = 1400	p = 0.000167743753675	number of edges = 343	Estimate was : 328.777757202
@@ -2126,63 +2126,63 @@ length : 3.0	start : 2
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.1
 num_vertices = 1500	p = 9.23478115004e-07	number of edges = 3	Estimate was : 2.07782575876
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.15
 num_vertices = 1500	p = 1.33116279449e-06	number of edges = 4	Estimate was : 2.99511628761
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.2
 num_vertices = 1500	p = 1.91882661501e-06	number of edges = 7	Estimate was : 4.31735988377
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.25
 num_vertices = 1500	p = 2.7659243435e-06	number of edges = 7	Estimate was : 6.22332977288
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.3
 num_vertices = 1500	p = 3.98698736726e-06	number of edges = 7	Estimate was : 8.97072157633
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.35
 num_vertices = 1500	p = 5.74710884771e-06	number of edges = 13	Estimate was : 12.9309949074
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.4
 num_vertices = 1500	p = 8.28426505154e-06	number of edges = 11	Estimate was : 18.639596366
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.45
 num_vertices = 1500	p = 1.19414908022e-05	number of edges = 26	Estimate was : 26.8683543049
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.5
 num_vertices = 1500	p = 1.72132593165e-05	number of edges = 38	Estimate was : 38.7298334621
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.55
 num_vertices = 1500	p = 2.48123371868e-05	number of edges = 55	Estimate was : 55.8277586702
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.6
 num_vertices = 1500	p = 3.57661536e-05	number of edges = 89	Estimate was : 80.4738456
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.65
 num_vertices = 1500	p = 5.15557133417e-05	number of edges = 128	Estimate was : 116.000355019
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.7
 num_vertices = 1500	p = 7.43158352418e-05	number of edges = 176	Estimate was : 167.210629294
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.75
 num_vertices = 1500	p = 0.000107123789193	number of edges = 240	Estimate was : 241.028525683
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.8
 num_vertices = 1500	p = 0.000154415356749	number of edges = 359	Estimate was : 347.434552686
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.85
 num_vertices = 1500	p = 0.00022258456856	number of edges = 513	Estimate was : 500.815279261

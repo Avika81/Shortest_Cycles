@@ -1,66 +1,66 @@
 m =  n ^ 0.1
 num vertices = 1300
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.15
 num vertices = 1300
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.2
 num vertices = 1300
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.25
 num vertices = 1300
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.3
 num vertices = 1300
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.35
 num vertices = 1300
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.4
 num vertices = 1300
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.45
 num vertices = 1300
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.5
 num vertices = 1300
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.55
 num vertices = 1300
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.6
 num vertices = 1300
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.65
 num vertices = 1300
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.7
 num vertices = 1300
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.75
 num vertices = 1300
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.8
 num vertices = 1300
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.85
 num vertices = 1300
-There is no cycle in this graph!
+there are no cycles in this graph!
 ---------------------------------------------------------------------------------------------
 m =  n ^ 0.9
 num vertices = 1300
