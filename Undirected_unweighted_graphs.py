@@ -61,7 +61,7 @@ for i in range(100):
         print "m =  n ^ " + str(power)
         print "num vertices = " + str(num_vertices)
         # TempGraph = snap.GenRndGnm(snap.PUNGraph, num_vertices, int(num_vertices**power))  # generates random graph (type, num odes, num edges
-        TempGraph = create_random_graph(num_vertices, num_vertices**(power-2))
+        TempGraph = create_random_graph(num_vertices, (num_vertices**power)/(2* num_vertices * (num_vertices - 1))
         girth = find_shortest_cycle(TempGraph)
         if girth > Max:
             power_max = power
