@@ -8,7 +8,7 @@ def min_length(s,G):
     d = numpy.array(networkx.number_of_nodes(G))  # array, set 1 value for each node representing the length from it to 1 in G'.
     d[s] = 0
     pred[s] = 0
-    distance-update(s,s)
+    distance_update(s,s)
     is_there_non_empty_buckets = True
     while is_there_non_empty_buckets:
         k = '''min bucket that is not empty?'''

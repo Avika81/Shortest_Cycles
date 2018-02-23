@@ -20,8 +20,13 @@ def create_graph(num_vertices, p, min_weight, max_weight):
             + str(graph.number_of_edges()) + "_min_weight_" + str(min_weight) + "_max_weight_" + str(max_weight)\
             + "_index_" + str(index)
     # networkx.write_gml(graph, new_dir)
-    return graph
     index += 1
+    return graph
+
+
+
+
+
 #
 # for num_vertices in range(100, 1001, 100):  # 10
 #     for power in numpy.arange(0.7, 1.3, 0.001):  # 6000
