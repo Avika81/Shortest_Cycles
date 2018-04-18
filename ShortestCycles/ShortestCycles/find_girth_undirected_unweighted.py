@@ -32,10 +32,10 @@ def find_shortest_cycle(Graph):
                     if result[0] < best[0] or math.isnan(best[0]):
                         best = result
     if math.isnan(best[0]):
-        print("There is no cycle in this graph!")
+        print "There is no cycle in this graph!"
         return -1
     else:
-        print("length : " + str(best[0]) + "\tstart : " + str(best[1]))
+        print "length : " + str(best[0]) + "\tstart : " + str(best[1])
         return best[0]
 
 def create_random_graph(num_vertices, p):
@@ -48,7 +48,7 @@ def create_random_graph(num_vertices, p):
         for j in range(i, num_vertices):
             if random.random() < p:
                 Graph.AddEdge(i, j)
-    print("num_vertices = " + str(num_vertices) + "\tp = " + str(p) + "\tnumber of edges = " + str(Graph.GetEdges()) + "\tEstimate was : " + str((num_vertices*(num_vertices-1)/2*p)))
+    print "num_vertices = " + str(num_vertices) + "\tp = " + str(p) + "\tnumber of edges = " + str(Graph.GetEdges()) + "\tEstimate was : " + str((num_vertices*(num_vertices-1)/2*p))
 
     #Graph.Dump()
     return Graph
@@ -58,14 +58,14 @@ power_max = -1
 for i in range(100):
     num_vertices = 1000
     for power in numpy.arange(0.8, 1, 0.001):
-        print("m =  n ^ " + str(power))
-        print("num vertices = " + str(num_vertices))
+        print "m =  n ^ " + str(power)
+        print "num vertices = " + str(num_vertices)
         # TempGraph = snap.GenRndGnm(snap.PUNGraph, num_vertices, int(num_vertices**power))  # generates random graph (type, num odes, num edges
         TempGraph = create_random_graph(num_vertices, (num_vertices**power)/(2* num_vertices * (num_vertices - 1))
         girth = find_shortest_cycle(TempGraph)
         if girth > Max:
             power_max = power
             Max = girth
-        print("---------------------------------------------------------------------------------------------")    # delimiter
-print("maximum length :" + str(Max) + "with power" + str(power))
+        print "---------------------------------------------------------------------------------------------"    # delimiter
+print "maximum length :" + str(Max) + "with power" + str(power)
 # TempGraph.Dump()
