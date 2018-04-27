@@ -30,6 +30,19 @@
     <Content Include="main.py">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="README.md" />
+    <Content Include="results2_14_12.txt" />
+    <Content Include="results_14_12.txt" />
+    <Content Include="results_mrand.txt" />
+    <Content Include="results_snaprand.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="create_directed_weighted_graphs.py" />
+    <Compile Include="Dijkstra_algorithm.py" />
+    <Compile Include="fibHeap.py" />
+    <Compile Include="find_girth_directed.py" />
+    <Compile Include="find_girth_undirected_unweighted.py" />
+    <Compile Include="snap_temp.py" />
   </ItemGroup>
   <Import Condition="Exists($(PtvsTargetsFile))" Project="$(PtvsTargetsFile)" />
   <Import Condition="!Exists($(PtvsTargetsFile))" Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
