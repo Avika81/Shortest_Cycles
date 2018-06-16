@@ -576,3 +576,6 @@ def Cluster_out(G,S,r,d):
             if(t > 0):continue
             else : sets[v].append(u)
     return sets
+
+def approximate_girth(G):
+    return 5
