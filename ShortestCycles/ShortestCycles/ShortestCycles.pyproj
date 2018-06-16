@@ -37,7 +37,7 @@
     <Content Include="results_snaprand.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="approximating girth.py">
+    <Compile Include="approximating_girth.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="create_directed_weighted_graphs.py" />
@@ -45,6 +45,12 @@
     <Compile Include="fibHeap.py" />
     <Compile Include="find_girth_directed.py" />
     <Compile Include="find_girth_undirected_unweighted.py" />
+    <Compile Include="graphs.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="kruskal.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="snap_temp.py" />
   </ItemGroup>
   <Import Condition="Exists($(PtvsTargetsFile))" Project="$(PtvsTargetsFile)" />

@@ -578,4 +578,10 @@ def Cluster_out(G,S,r,d):
     return sets
 
 def approximate_girth(G):
-    return 5
+    # return 5  #random temp res for testing.
+    t = get_roundtrip_cover(G)
+    m = float('inf')
+    for u in G.nodes():
+        for v in G.nodes():
+            m = min(m,t[u][v])
+    return m
