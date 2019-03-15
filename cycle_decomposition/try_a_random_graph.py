@@ -24,7 +24,8 @@ def my_algo(m_g, R):
     T = nx.Graph()
     result = []
     for i in np.arange(n/math.log(n)):
-        if len(m_g.edges()) < 6*n:
+        if len(m_g.edges()) < 3*n:
+            print(str(2) + "n is " + str(n))
             break
 
         if(i!=0):
@@ -56,17 +57,11 @@ def my_algo(m_g, R):
     # print(result)
     return (result,cnt_bad)
 
-def try_a_random_graph(i, R):
-    n = 1000
-    d = 30
-    # R = 30
-
-    random_reg = nx.random_regular_graph(d,n)
-    G_np = nx.gnp_random_graph(n,d/n)
-    if(i == 0):
-        (result,cnt_bad) = my_algo(G_np, R)
-    else:
-        (result,cnt_bad) = my_algo(G_np, R)
+def try_a_random_graph(test):
+    (result,cnt_bad) = my_algo(test.G, test.R)
+    if(result == []):
+        print("no cycle found :( ")
+        return
     print("The max len is: " + str(len(max(result,key=len))))
     # print("Average cycle size is: " + str(sum([len(i) for i in result])/len(result)))
     print("The average len (of an edge) is: " + str(sum([len(i)**2 for i in result])/sum([len(i) for i in result])))

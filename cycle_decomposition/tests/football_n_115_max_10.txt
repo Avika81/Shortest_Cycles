@@ -1,0 +1,7 @@
+1
+The max len is: 8
+The average len (of an edge) is: 5.391752577319588
+cnt_bad = 5
+num_cycles = 20
+result is - [3, 5, 4, 3, 6, 5, 7, 7, 3, 7, 3, 7, 3, 5, 5, 5, 4, 3, 8, 4]
+The cycles - [['Kent', 'Akron', 'MiamiOhio'], ['IowaState', 'Baylor', 'Texas', 'Oklahoma', 'OklahomaState'], ['Memphis', 'Army', 'EastCarolina', 'AlabamaBirmingham'], ['MississippiState', 'Auburn', 'LouisianaState'], ['Utah', 'Arizona', 'OregonState', 'Oregon', 'SouthernCalifornia', 'California'], ['SanJoseState', 'SouthernMethodist', 'Rice', 'Tulsa', 'Hawaii'], ['BowlingGreenState', 'EasternMichigan', 'Connecticut', 'Akron', 'NorthernIllinois', 'Buffalo', 'Ohio'], ['Vanderbilt', 'Kentucky', 'SouthCarolina', 'Clemson', 'Virginia', 'FloridaState', 'WakeForest'], ['Nebraska', 'Kansas', 'Oklahoma'], ['UCLA', 'OregonState', 'SanDiegoState', 'ArizonaState', 'WashingtonState', 'Washington', 'Stanford'], ['Memphis', 'SouthernMississippi', 'Tulane'], ['NewMexicoState', 'BoiseState', 'Arkansas', 'LouisianaMonroe', 'LouisianaTech', 'Hawaii', 'TexasElPaso'], ['BowlingGreenState', 'Marshall', 'Kent'], ['KansasState', 'TexasTech', 'NewMexico', 'NevadaLasVegas', 'NorthTexas'], ['NorthernIllinois', 'BallState', 'EasternMichigan', 'Toledo', 'WesternMichigan'], ['UCLA', 'SouthernCalifornia', 'Stanford', 'ArizonaState', 'Oregon'], ['Duke', 'NorthCarolina', 'Clemson', 'WakeForest'], ['Louisville', 'EastCarolina', 'SouthernMississippi'], ['Iowa', 'IowaState', 'Colorado', 'Washington', 'California', 'Illinois', 'PennState', 'Indiana'], ['Navy', 'NotreDame', 'BostonCollege', 'Army']]
