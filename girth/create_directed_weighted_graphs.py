@@ -4,7 +4,6 @@ import random
 dir_to_folder_of_graphs = "/media/avi_kadria/Windows/Users/avika/directed_weighted_graphs"
 index = 1
 
-
 def create_graph(num_vertices, p, min_weight, max_weight):
     global index
     graph = networkx.DiGraph()
