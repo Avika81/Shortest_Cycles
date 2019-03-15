@@ -14,16 +14,11 @@ def dijkstra(graph, source, sink=None):
     heap = FibonacciHeap()
     for i in range(n):
         heapNodes[i] = heap.insert(float('inf'), i)     # distance, label
-    print("x1: " + str(heap.total_nodes))
     distance[source] = 0
     heap.decrease_key(heapNodes[source], 0)
-    print("x2: " + str(heap.total_nodes))
     while heap.total_nodes:
-        print("x3: " + str(heap.total_nodes))
         min = heap.extract_min()
-        print("x4: " + str(heap.total_nodes))
         if min == None:
-            print("x: " + str(heap.total_nodes))
             print("error, graph isn't connected (there is infinity distances)")
             break
         current = min.value
@@ -33,7 +28,7 @@ def dijkstra(graph, source, sink=None):
         if sink and current == sink:
             break
 
-        for neighbor in graph[current]:
+        for neighbor in list(graph.neighbors(current)):
             if not visited[neighbor]:
                 cost = graph[current][neighbor]['weight']
                 if distance[current] + cost < distance[neighbor]:

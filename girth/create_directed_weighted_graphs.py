@@ -1,13 +1,13 @@
 import networkx
 import numpy
 import random
-dir_to_folder_of_graphs = "/home/avi_kadria/Desktop/Shortest_cycles/directed_weighted_graphs"
+dir_to_folder_of_graphs = "/media/avi_kadria/Windows/Users/avika/directed_weighted_graphs"
 index = 1
 
 
 def create_graph(num_vertices, p, min_weight, max_weight):
     global index
-    graph = networkx.Graph()
+    graph = networkx.DiGraph()
     for i in range(num_vertices):
         graph.add_node(i)
     for i in range(num_vertices):
@@ -16,18 +16,15 @@ def create_graph(num_vertices, p, min_weight, max_weight):
                 # in probability p adds an edge :
                 w = random.randint(min_weight, max_weight)
                 graph.add_edge(i, j, weight=w)
-    new_dir = dir_to_folder_of_graphs + "/" + "directed_weighted_nodes_" + str(num_vertices) + "_edges_" \
-            + str(graph.number_of_edges()) + "_min_weight_" + str(min_weight) + "_max_weight_" + str(max_weight)\
+    new_dir = dir_to_folder_of_graphs + "/" + "nodes_" + str(num_vertices) + "_edges_" \
+            + str(graph.number_of_edges()) + "weight_" + str(min_weight) + "_" + str(max_weight)\
             + "_index_" + str(index)
+    # open(new_dir, "w+")
     # networkx.write_gml(graph, new_dir)
     index += 1
     return graph
 
 
-
-
-
-#
 # for num_vertices in range(100, 1001, 100):  # 10
 #     for power in numpy.arange(0.7, 1.3, 0.001):  # 6000
 #         p = (num_vertices**power)/(num_vertices * (num_vertices-1))
