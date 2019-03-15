@@ -76,14 +76,14 @@ def get_football_graph_test():
     gml = gml.split('\n')[1:]
     G = nx.parse_gml(gml)  # parse gml data
 
-    return Test(G, 'football', 10, G.number_of_nodes(), -1, 0)
+    return Test(G, 'football', 10, G.number_of_nodes(), -1)
 
 def get_lollipop_graph_test(n,m,R):
     G = nx.lollipop_graph(m,n)
     return Test(G, "lollipop", R, G.number_of_nodes(), -1)
 
 tests = []
-'''already got results :
+'''already got results :'''
 for i in range(1,6):
     tests.append(random_gnp_test(200*i,30,20))
 
@@ -91,7 +91,7 @@ for i in range(1,6):
     tests.append(random_reg_test(200*i,30,20))
 
 tests.append(get_football_graph_test())
-'''
+
 tests.append(get_lollipop_graph_test(100,200,20))
 tests.append(get_lollipop_graph_test(100,200,15))
 
