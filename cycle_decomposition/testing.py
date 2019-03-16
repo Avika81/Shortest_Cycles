@@ -83,7 +83,7 @@ def get_lollipop_graph_test(n,m,R):
     return Test(G, "lollipop", R, G.number_of_nodes(), -1)
 
 tests = []
-'''already got results :'''
+'''already got results :
 for i in range(1,6):
     tests.append(random_gnp_test(200*i,30,20))
 
@@ -94,7 +94,7 @@ tests.append(get_football_graph_test())
 
 tests.append(get_lollipop_graph_test(100,200,20))
 tests.append(get_lollipop_graph_test(100,200,15))
-
+'''
 for t in tests:
     p = Process(target=f,args=(t, ))
     p.start()

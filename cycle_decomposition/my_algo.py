@@ -7,13 +7,15 @@ def k(e):
     return float(e[2])
 
 def clean_small_degree_nodes(G):
+    ''' remove all the nodes from the graph of degree less than 6. O(n) '''
     l_n = list(G.nodes()).copy()
     for n in l_n:
         if(G.degree[n] < 6):
             G.remove_node(n)
 
 def my_algo(m_g, R):
-    cnt_bad = 0
+    cnt_bad = 0  # counts the number of bad cycles found
+    cnt_bad_edges = 0 # counts the number of bad edges in cycles 
     clean_small_degree_nodes(m_g)
 
     n = m_g.number_of_nodes()
@@ -50,24 +52,27 @@ def my_algo(m_g, R):
             m_g.remove_edge(e[0],e[1])
         else:
             cnt_bad +=1
+            cnt_bad_edges += len(p)
             for d in l_p:
                 T[d[0]][d[1]]['weight'] = np.random.uniform() + 1
             # m_g[e_min[0]][e_min[1]]['weight'] = np.random.uniform() + 1
         # print("the length of the added cycle is " + str(len(p)))
     # print(result)
-    return (result,cnt_bad)
+    return (result,(cnt_bad, cnt_bad_edges))
 
 def run_test(test):
-    (result,cnt_bad) = my_algo(test.G, test.R)
+    (result,(cnt_bad, cnt_bad_edges)) = my_algo(test.G, test.R)
+    result.sort(key=len)
     if(result == []):
         print("no cycle found :( ")
         return
     print("The max len is: " + str(len(max(result,key=len))))
     # print("Average cycle size is: " + str(sum([len(i) for i in result])/len(result)))
     print("The average len (of an edge) is: " + str(sum([len(i)**2 for i in result])/sum([len(i) for i in result])))
-    print("cnt_bad = " +str(cnt_bad))
+    print("number of bad cycles = " + str(cnt_bad))
+    print("number of bad edges = " + str(cnt_bad_edges))
 
-    print("num_cycles = " + str(len(result)))
+    print("number of cycles found = " + str(len(result)))
 
-    print("result is - " + str([len(i) for i in result]))
+    print("cycles length - " + str([len(i) for i in result]))
     print("The cycles - " + str(result))
