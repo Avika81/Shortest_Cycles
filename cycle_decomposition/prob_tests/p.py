@@ -1,16 +1,16 @@
 import itertools
 import copy
-permutations = itertools.permutations([1,2,3,4,5,6])
+permutations = itertools.permutations([1,2,3,4,5])
 
 
 def f_index(l):
     c = 10
     return l[0]*c**2+l[1]*c+l[2]
-permutations_t = itertools.permutations([1,2,3,5,6])
+permutations_t = itertools.permutations([2,3,4,5])
 groups = []
 # for i in range(1,5):
 #     groups.append([i,i+1,i+2])
-for i in range(1,6):
+for i in range(1,3):
     groups.append([i])
 
 disct = {}
