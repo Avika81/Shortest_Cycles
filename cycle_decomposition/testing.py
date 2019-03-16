@@ -98,12 +98,14 @@ tests.append(get_football_graph_test())
 
 tests.append(get_lollipop_graph_test(100,200,20))
 tests.append(get_lollipop_graph_test(100,200,15))
-'''
+
 tests.append(get_complete_graph_test(200,20))
 tests.append(get_complete_graph_test(400,22))
 tests.append(get_complete_graph_test(600,24))
 tests.append(get_complete_graph_test(800,26))
 tests.append(get_complete_graph_test(1000,28))
+'''
+
 for t in tests:
     p = Process(target=f,args=(t, ))
     p.start()
