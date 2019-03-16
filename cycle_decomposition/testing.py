@@ -82,6 +82,10 @@ def get_lollipop_graph_test(n,m,R):
     G = nx.lollipop_graph(m,n)
     return Test(G, "lollipop", R, G.number_of_nodes(), -1)
 
+def get_complete_graph_test(n, R):
+    G = nx.complete_graph(n)
+    return Test(G, "complete", R, G.number_of_nodes(), -1)
+
 tests = []
 '''already got results :
 for i in range(1,6):
@@ -95,6 +99,11 @@ tests.append(get_football_graph_test())
 tests.append(get_lollipop_graph_test(100,200,20))
 tests.append(get_lollipop_graph_test(100,200,15))
 '''
+tests.append(get_complete_graph_test(200,20))
+tests.append(get_complete_graph_test(400,22))
+tests.append(get_complete_graph_test(600,24))
+tests.append(get_complete_graph_test(800,26))
+tests.append(get_complete_graph_test(1000,28))
 for t in tests:
     p = Process(target=f,args=(t, ))
     p.start()
