@@ -1,4 +1,4 @@
-import try_a_random_graph
+import my_algo
 import sys
 sys.path.append(sys.path[0] + "/..")
 
@@ -37,7 +37,7 @@ def f(t):
     new_file_name = default_name
     new_file = open(new_file_name, "w")
     sys.stdout = new_file
-    try_a_random_graph.try_a_random_graph(t)
+    my_algo.run_test(t)
 
 
 

@@ -57,7 +57,7 @@ def my_algo(m_g, R):
     # print(result)
     return (result,cnt_bad)
 
-def try_a_random_graph(test):
+def run_test(test):
     (result,cnt_bad) = my_algo(test.G, test.R)
     if(result == []):
         print("no cycle found :( ")
