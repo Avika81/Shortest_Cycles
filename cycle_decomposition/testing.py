@@ -39,8 +39,6 @@ def f(t):
     sys.stdout = new_file
     my_algo.run_test(t)
 
-
-
 tests = []
 
 def random_gnp_test(n,d,R):
