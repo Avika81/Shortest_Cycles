@@ -1,27 +1,17 @@
 import itertools
 import copy
-N = 10
-permutations = itertools.permutations([i for i in range(N)])
+permutations = itertools.permutations([1,2,3,4,5])
 
 
 def f_index(l):
     c = 10
-    for i in range(N):
-        l.append(0)
     return l[0]*c**2+l[1]*c+l[2]
-
-permutations_t = []
-for i in range(2**N):
-    t_perm = []
-    res = format(i,'#0' + str(N) +'b')
-
-    for item in range(N):
-        if res[N-1-item] == '1':
-            t_perm.append(item)
-    permutations_t.append(t_perm)
+permutations_t = itertools.permutations([2,3,4,5])
 groups = []
-for i in range(1,6):
-    groups.append([i,i+1])
+# for i in range(1,5):
+#     groups.append([i,i+1,i+2])
+for i in range(1,3):
+    groups.append([i])
 
 disct = {}
 for p in permutations:
@@ -38,26 +28,25 @@ for p in permutations:
                         # print("g is the first " + str(index + 1))
                         to_continue = False
                         first_group = index
-
-    for item in groups[first_group]:
-        # print(item, p_l)
-        index = p_l.index(item)
-        p_l.remove(item)
-        '''trying to fix probability'''
-        if(index < len(p_l) and p_l[index]not in groups[first_group]):
-            p_l.remove(p_l[index])
+    for i in groups[first_group]:
+        p_l.remove(i)
     # print(p_l)
 
     permutations_tt = groups_t = copy.deepcopy(permutations_t)
     for pp in permutations_tt:
+        # print(pp)
         t = True
         for i in p_l:
             if (i not in pp):
+                # print(i)
                 t = False
         if t:
+            # print(1)
             cc = f_index(p_l)
             if cc not in disct:
+                # print(f_index(p_l))
                 disct[f_index(p_l)] = 1
+                # print(1)
             else:
                 disct[f_index(p_l)] += 1
 
